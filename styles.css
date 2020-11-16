@@ -1,0 +1,42 @@
+:root {
+    --light-pink: #fff0f2;
+    --hot-pink: #ff3856;
+    --grink: #e9ced2;
+    --rose: #fd8395;
+    --grey: #dacacc;
+    --purple: #b39eaf;
+    --teal: #70d6d6;
+    --baby-teal: #acd9c8;
+    --ada-purple: #6b5667;
+    --honey: #ffae03;
+    --darkhoney: #c08403;
+    --forest: #394648;
+  }
+
+body {
+    background-color: #fff0f2;
+}
+div {
+    text-align: center;
+    /* border: solid 3px #FF3856; */
+}
+
+.row1 {
+    border: solid 3px var(--hot-pink);
+}
+
+.row2 { 
+    border: solid 3px var(--honey);
+}
+
+.row3 { 
+    border: solid 3px var(--teal);
+}
+
+.row4 { 
+    border: solid 3px var(--purple);
+}
+
+.row5 { 
+    border: solid 3px var(--grey);
+}
